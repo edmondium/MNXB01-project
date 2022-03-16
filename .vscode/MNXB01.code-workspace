@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"rootlogon.C": "cpp"
+		},
+		"C_Cpp.default.includePath": [
+			"${default}",
+			"/home/edmondium/root_install/include"
+		]
+	}
+}
